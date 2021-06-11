@@ -1,0 +1,16 @@
+.bod{
+  background-color:#f8f5f1;
+}
+.container-fluid {
+  max-width: 60%;
+}
+
+.btn-lg {
+  margin-left: 10%;
+}
+
+.jumbotron {
+  background-color: #007580;
+  color:#e4fbff;
+
+}
